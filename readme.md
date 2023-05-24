@@ -40,3 +40,6 @@ Le tenemos que decir al router que cada peticion que llegue por el puerto 80, la
         * ss -ltpan
         * nmap julianberton.hopto.org -p 80
                * sudo apt-get install nmap
+
+La documentacion para configurar el servidor apache se encuentra en:
+    * cat /usr/share/doc/apache2/README.Debian
