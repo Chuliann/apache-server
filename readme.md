@@ -1,4 +1,4 @@
-En este archivo voy a indicar las instrucciones para crear y configurar un servidor apache en ubuntu
+En este archivo voy a indicar las instrucciones para crear y configurar un servidor apache en ubuntu, considerando que lo hosteamos desde nuestra propia casa
 
 1) Creamos y configuramos nuestro nombre dns (opcional)
 En este caso vamos a usar https://www.noip.com, que nos provee uno gratuito
